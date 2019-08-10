@@ -1,5 +1,5 @@
 #include <func.h>
-
+//获取主机名，主机别名，ip地址
 int main(int argc,char **argv)
 {
 	args_check(argc,2);
