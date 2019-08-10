@@ -1,5 +1,5 @@
 #include <func.h>
-
+//将点分十进制的ip地址转化成网络字节序的形式
 int main(int argc,char **argv)
 {
 	args_check(argc,2);
